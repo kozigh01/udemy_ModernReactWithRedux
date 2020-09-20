@@ -6,5 +6,5 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
 ## Resources
 * Bable: [home](https://babeljs.io/)
 * Semantic UI: [home](https://semantic-ui.com/)
-* Faker js: [home](https://github.com/marak/Faker.js/)
+* Faker js: [home](https://github.com/marak/Faker.js/cd)
 
