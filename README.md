@@ -10,4 +10,6 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
 * Unsplash.com (stock images): [home](https://unsplash.com/) | [devs](https://unsplash.com/developers) 
 * youtube api (mkozi.github@gmail.com): [dev console](https://console.developers.google.com/) | [search video](https://developers.google.com/youtube/v3/docs/search)
   > Key = 'AIzaSyB6u2hAXY0gTcjPCPXCCCkKLPZEaailcHQ'
+* wikipedia: [site](https://www.wikipedia.org/)
+  > en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=SEARCHTERM
 *
