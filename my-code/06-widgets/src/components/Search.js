@@ -9,6 +9,7 @@ const renderedResults = (results) => results.map(r =>
       <a 
         href={`https://en.wikipedia.org?curid=${r.pageid}`}
         target="_blank" 
+        rel="noopener noreferrer"
         className="ui button"
       >Go</a>
     </div>
@@ -48,10 +49,10 @@ const Search = (props) => {
     if (term && !results.length) {
       search();
     } else {
-      const timer = setTimeout(() => search(), 1000);
+      const timerId = setTimeout(() => search(), 1000);
 
       return () => {
-        clearTimeout(timer);
+        clearTimeout(timerId);
       }
     }
     // search();

@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { useEffect, useReducer, useState } from 'react';
 
-import Accordion from './components/Accordion';
-import Search from './components/Search';
+// import Accordion from './components/Accordion';
+// import Search from './components/Search';
+import DropDown from './components/Dropdown';
 
 const items = [
   {
@@ -21,12 +22,27 @@ const items = [
   }
 ]
 
+const options = [
+  { label: 'Red', value: 'red' },
+  { label: 'Green', value: 'green' },
+  { label: 'Blue', value: 'blue' },
+]
+
 export default () => {
+  const [ selection, setSelection ] = useState(options[0]);
+
   return (
     <div>
       <h1>Widgets App</h1>
       {/* <Accordion items={items}/> */}
-      <Search />
+      {/* <Search /> */}
+      <DropDown 
+        label="Select a Color"
+        options={options} 
+        selected={selection} 
+        onSelectedChanged={setSelection}
+      />
+      <p style={ {marginTop: '200px'} }>Selected Value: {selection.value}</p>
     </div>
   );
 }
