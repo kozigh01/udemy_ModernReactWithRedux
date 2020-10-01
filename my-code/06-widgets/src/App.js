@@ -2,7 +2,8 @@ import React, { useEffect, useReducer, useState } from 'react';
 
 // import Accordion from './components/Accordion';
 // import Search from './components/Search';
-import DropDown from './components/Dropdown';
+// import DropDown from './components/Dropdown';
+import Translate from './components/Translate'
 
 const items = [
   {
@@ -29,20 +30,21 @@ const options = [
 ]
 
 export default () => {
-  const [ selection, setSelection ] = useState(options[0]);
+  // const [ selection, setSelection ] = useState(options[0]);
 
   return (
     <div>
       <h1>Widgets App</h1>
       {/* <Accordion items={items}/> */}
       {/* <Search /> */}
-      <DropDown 
+      {/* <DropDown 
         label="Select a Color"
         options={options} 
         selected={selection} 
         onSelectedChanged={setSelection}
-      />
-      <p style={ {marginTop: '200px'} }>Selected Value: {selection.value}</p>
+      /> */}
+      {/* <p style={ {marginTop: '200px'} }>Selected Value: {selection.value}</p> */}
+      <Translate />
     </div>
   );
 }

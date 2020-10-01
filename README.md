@@ -12,4 +12,4 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
   > Key = 'AIzaSyB6u2hAXY0gTcjPCPXCCCkKLPZEaailcHQ'
 * wikipedia: [site](https://www.wikipedia.org/)
   > en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=SEARCHTERM
-*
+* Google Translate: [docs](https://cloud.google.com/translate/docs)
