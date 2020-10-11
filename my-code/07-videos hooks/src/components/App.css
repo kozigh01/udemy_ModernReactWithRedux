@@ -1,0 +1,15 @@
+.video-container {
+  display: flex;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+#video-list .video-item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+#video-list .video-item > img {
+  max-width: 100px;
+}

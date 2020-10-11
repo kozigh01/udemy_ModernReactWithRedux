@@ -13,3 +13,8 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
 * wikipedia: [site](https://www.wikipedia.org/)
   > en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=SEARCHTERM
 * Google Translate: [docs](https://cloud.google.com/translate/docs)
+
+## Deployment
+* Vercel: [home](https://vercel.com/)
+   > login: github - 
+* Netlify: [home](https://www.netlify.com/)
