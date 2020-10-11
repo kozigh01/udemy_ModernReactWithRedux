@@ -18,3 +18,6 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
 * Vercel: [home](https://vercel.com/)
    > login: github - 
 * Netlify: [home](https://www.netlify.com/)
+
+## Codepen
+* Redux: [basics](https://codepen.io/kozigh01/pen/OJXVOoE?editors=0011)
