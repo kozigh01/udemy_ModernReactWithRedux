@@ -5,6 +5,11 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
 
 ## Resources
 * Bable: [home](https://babeljs.io/)
+* NPM  
+   * Axios: [npm](https://www.npmjs.com/package/axios)  
+   * Redux: [npm](https://www.npmjs.com/package/redux)  
+   * React-Redux: [npm](https://www.npmjs.com/package/react-redux)
+   * React-Thunk: [npm](https://www.npmjs.com/package/react-thunk) | [github](https://github.com/reduxjs/redux-thunk)
 * Semantic UI: [home](https://semantic-ui.com/)
 * Faker js: [home](https://github.com/marak/Faker.js/cd)
 * Unsplash.com (stock images): [home](https://unsplash.com/) | [devs](https://unsplash.com/developers) 
@@ -13,6 +18,7 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
 * wikipedia: [site](https://www.wikipedia.org/)
   > en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=SEARCHTERM
 * Google Translate: [docs](https://cloud.google.com/translate/docs)
+* JSON Placeholder API: [main](https://jsonplaceholder.typicode.com/)
 
 ## Deployment
 * Vercel: [home](https://vercel.com/)
