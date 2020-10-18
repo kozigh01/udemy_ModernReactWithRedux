@@ -7,7 +7,7 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
 * Bable: [home](https://babeljs.io/)
 * NPM  
    * Axios: [npm](https://www.npmjs.com/package/axios)  
-   * Redux: [npm](https://www.npmjs.com/package/redux)  
+   * Redux: [npm](https://www.npmjs.com/package/redux) | [github](https://github.com/reduxjs/redux)
    * React-Redux: [npm](https://www.npmjs.com/package/react-redux)
    * React-Thunk: [npm](https://www.npmjs.com/package/react-thunk) | [github](https://github.com/reduxjs/redux-thunk)
 * Semantic UI: [home](https://semantic-ui.com/)
@@ -19,6 +19,9 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
   > en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=SEARCHTERM
 * Google Translate: [docs](https://cloud.google.com/translate/docs)
 * JSON Placeholder API: [main](https://jsonplaceholder.typicode.com/)
+* Lodash: [site](https://lodash.com/)  (on site, the console has _ defined)
+   * [_.omit()](https://lodash.com/docs/4.17.15#omit)
+   * [_.memoize()](https://lodash.com/docs/4.17.15#memoize)
 
 ## Deployment
 * Vercel: [home](https://vercel.com/)
