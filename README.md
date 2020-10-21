@@ -13,7 +13,8 @@ git: [github](https://github.com/kozigh01/udemy_ModernReactWithRedux)
 * Semantic UI: [home](https://semantic-ui.com/)
 * Faker js: [home](https://github.com/marak/Faker.js/cd)
 * Unsplash.com (stock images): [home](https://unsplash.com/) | [devs](https://unsplash.com/developers) 
-* youtube api (mkozi.github@gmail.com): [dev console](https://console.developers.google.com/) | [search video](https://developers.google.com/youtube/v3/docs/search)
+* Google youtube api (mkozi.github@gmail.com): [dev console](https://console.developers.google.com/) | [search video](https://developers.google.com/youtube/v3/docs/search)
+* Google OAuth (mkozi.github@gmail.com): [console](https://console.developers.google.com/) | [docs](https://developers.google.com/identity/sign-in/web/reference) | [client libraries](https://developers.google.com/api-client-library) | [identity platform](https://developers.google.com/api-client-library) | [github](https://github.com/google/google-api-javascript-client)
   > Key = 'AIzaSyB6u2hAXY0gTcjPCPXCCCkKLPZEaailcHQ'
 * wikipedia: [site](https://www.wikipedia.org/)
   > en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=SEARCHTERM
