@@ -16,12 +16,6 @@
       "id": 3
     },
     {
-      "title": "title 4",
-      "description": "description 4",
-      "userId": "109495521141569465300",
-      "id": 4
-    },
-    {
       "title": "Programatic navigation",
       "description": "some additional stuff about navigation",
       "userId": "109495521141569465300",
@@ -33,8 +27,8 @@
       "id": 6
     },
     {
-      "title": "title 7abc",
-      "description": "description 7abc",
+      "title": "title 7abcd",
+      "description": "description 7abcd",
       "userId": "109495521141569465300",
       "id": 7
     }
