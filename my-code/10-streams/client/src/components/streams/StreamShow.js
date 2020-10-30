@@ -12,11 +12,13 @@ class StreamShow extends React.Component {
     if (!this.props.stream) {
       return <div>Loading...</div>
     }
+
+    const { title, description } = this.props.stream;
+
     return (
       <div>
-        StreamShow
-        <p>Title: {this.props.stream?.title}</p>
-        <p>Description: {this.props.stream?.description}</p>
+        <h1>{title}</h1>
+        <h5>Description: {description}</h5>
       </div>
     );
   };
