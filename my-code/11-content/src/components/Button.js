@@ -11,11 +11,15 @@ export default class Button extends React.Component {
 
   render = () => {
     return (
-      <button className="ui button primary">
-        <LanguageContext.Consumer>
-          {this.renderSubmit}
-        </LanguageContext.Consumer>
-      </button>
+      <ColorContext.Consumer>
+        {(colorValue) => 
+          <button className={`ui button ${colorValue}`}>
+            <LanguageContext.Consumer>
+              {this.renderSubmit}
+            </LanguageContext.Consumer>
+          </button>
+        }
+      </ColorContext.Consumer>
     );
   }
 }
